@@ -1,12 +1,13 @@
 Pet Paradise Portal
 This repository contains the static website files for the "Pet Paradise Portal", a virtual store for pets and pet care resources.
 
-Table of Contents
+Table of Contents:
 About
 Features
 Pages
 Contact
 License
+
 About
 The Pet Paradise Portal is a retail business that sells animals and pet care resources to the public. Our mission is to cherish pets and help pet guardians live more satisfying lives with their companions. We offer a variety of animals and resources to meet the needs of pet owners.
 
